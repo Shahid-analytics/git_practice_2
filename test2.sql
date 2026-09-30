@@ -2,5 +2,6 @@ Select
     revenue,
     profit,
     sales,
-    orders
+    orders,
+    salesYTD
 from bronze.accounts
