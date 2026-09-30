@@ -3,5 +3,5 @@ Select
     profit,
     sales,
     orders,
-    salesYTD
+    changed
 from bronze.accounts
