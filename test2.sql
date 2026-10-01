@@ -4,4 +4,6 @@ Select
     sales,
     orders,
     changed123,
+    revenueMTD,
+    revenueYTD
 from bronze.accounts
