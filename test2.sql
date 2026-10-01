@@ -3,5 +3,7 @@ Select
     profit,
     sales,
     orders,
-    changed
+    changed,
+    revenue,
+    revenueMTD
 from bronze.accounts
