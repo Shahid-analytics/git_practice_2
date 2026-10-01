@@ -3,5 +3,6 @@ Select
     age,
     height,
     salary,
-    weight
+    weight,
+    sex
 from brinze.user
