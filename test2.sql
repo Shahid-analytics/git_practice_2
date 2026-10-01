@@ -5,4 +5,7 @@ Select
     orders,
     changed
     changed123,
+    revenueMTD,
+    revenueYTD,
+    revenueWTD
 from bronze.accounts
