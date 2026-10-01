@@ -7,5 +7,6 @@ Select
     changed123,
     revenueMTD,
     revenueYTD,
-    revenueWTD
+    revenueWTD,
+    profitYTD
 from bronze.accounts
