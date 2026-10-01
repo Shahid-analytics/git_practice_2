@@ -8,5 +8,6 @@ Select
     revenueMTD,
     revenueYTD,
     revenueWTD,
-    profitYTD
+    profitYTD,
+    profitMTD
 from bronze.accounts
