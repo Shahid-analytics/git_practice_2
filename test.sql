@@ -2,5 +2,7 @@ Select
     name,
     age,
     height,
-    salary
+    salary,
+    weight,
+    sex
 from brinze.user
